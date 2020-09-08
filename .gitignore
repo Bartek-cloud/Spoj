@@ -1,0 +1,17 @@
+*.sln
+*.vcxproj
+*.vcxproj.filers
+*.vcxproj.user
+
+*.cbp
+*.depend
+*.layout
+
+*.slo
+*.lo
+*.o
+*.obj
+
+*.exe
+*.out
+*.app
