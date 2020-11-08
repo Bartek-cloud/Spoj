@@ -8,7 +8,7 @@ SPOJ submission 24385947 (C++ 4.3.2) plaintext list. Status: AC, problem PA05_PO
      
     *one=da%10;
     }
-     
+     M.boniecki
     int main()
     {
         int ile;
