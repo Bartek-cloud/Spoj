@@ -91,6 +91,6 @@ int main()
     for(int i=0;i<side_size;i++){
 		delete [] plots[i];
     }
-	delete [] *plots;
+	delete [] plots;
     return 0;
 }
